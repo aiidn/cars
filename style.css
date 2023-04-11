@@ -280,8 +280,23 @@ h6{
 .pic {
     display: block;
     margin: 0 auto;
+    width: 600px;
+    right: 300px;
 }
 
 .pic-text {
     text-align: center;
+    font-size: 30px;
+}
+
+.pic1 {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    right: 300px;
+}
+
+.pic-text1 {
+    text-align: center;
+    font-size: 30px;
 }
